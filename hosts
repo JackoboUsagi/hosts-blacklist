@@ -1,0 +1,144 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+      0.0.0.0     20minutes.fr
+      0.0.0.0     www.20minutes.fr
+      0.0.0.0     afp.com
+      0.0.0.0     www.afp.com
+      0.0.0.0     bfmtv.com
+      0.0.0.0     www.bfmtv.com
+      0.0.0.0     canalplus.fr
+      0.0.0.0     www.canalplus.fr
+      0.0.0.0     cnews.fr
+      0.0.0.0     www.cnews.fr
+      0.0.0.0     corsematin.com
+      0.0.0.0     www.corsematin.com
+      0.0.0.0     courrier-picard.com
+      0.0.0.0     www.courrier-picard.com
+      0.0.0.0     dna.fr
+      0.0.0.0     www.dna.fr
+      0.0.0.0     elle.fr
+      0.0.0.0     www.elle.fr
+      0.0.0.0     euronews.com
+      0.0.0.0     www.euronews.com
+      0.0.0.0     europe1.fr
+      0.0.0.0     www.europe1.fr
+      0.0.0.0     facebook.com
+      0.0.0.0     www.facebook.com
+      0.0.0.0     france2.fr
+      0.0.0.0     www.france2.fr
+      0.0.0.0     france24.com
+      0.0.0.0     www.france24.com
+      0.0.0.0     france3.fr
+      0.0.0.0     www.france3.fr
+      0.0.0.0     france5.fr
+      0.0.0.0     www.france5.fr
+      0.0.0.0     francesoir.fr
+      0.0.0.0     www.francesoir.fr
+      0.0.0.0     humanite.fr
+      0.0.0.0     www.humanite.fr
+      0.0.0.0     la-croix.com
+      0.0.0.0     www.la-croix.com
+      0.0.0.0     lalsace.fr
+      0.0.0.0     www.lalsace.fr
+      0.0.0.0     laprovence.com
+      0.0.0.0     www.laprovence.com
+      0.0.0.0     latribune.fr
+      0.0.0.0     www.latribune.fr
+      0.0.0.0     lavoixdunord.fr
+      0.0.0.0     www.lavoixdunord.fr
+      0.0.0.0     lci.fr
+      0.0.0.0     www.lci.fr
+      0.0.0.0     ledauphine.com
+      0.0.0.0     www.ledauphine.com
+      0.0.0.0     lci.fr
+      0.0.0.0     www.lci.fr
+      0.0.0.0     lefigaro.fr
+      0.0.0.0     www.lefigaro.fr
+      0.0.0.0     lemonde.fr
+      0.0.0.0     www.lemonde.fr
+      0.0.0.0     leparisien.fr
+      0.0.0.0     www.leparisien.fr
+      0.0.0.0     lepoint.fr
+      0.0.0.0     www.lepoint.fr
+      0.0.0.0     leprogres.fr
+      0.0.0.0     www.leprogres.fr
+      0.0.0.0     lequipe.fr
+      0.0.0.0     www.lequipe.fr
+      0.0.0.0     lesechos.fr
+      0.0.0.0     www.lesechos.fr
+      0.0.0.0     letelegramme.com
+      0.0.0.0     www.letelegramme.com
+      0.0.0.0     lexpansion.com
+      0.0.0.0     www.lexpansion.com
+      0.0.0.0     lexpress.fr
+      0.0.0.0     www.lexpress.fr
+      0.0.0.0     libertedelest.fr
+      0.0.0.0     www.libertedelest.fr
+      0.0.0.0     lyonne-republicaine.fr
+      0.0.0.0     www.lyonne-republicaine.fr
+      0.0.0.0     liberation.fr
+      0.0.0.0     www.liberation.fr
+      0.0.0.0     lunion.fr
+      0.0.0.0     www.lunion.fr
+      0.0.0.0     m6.fr
+      0.0.0.0     www.m6.fr
+      0.0.0.0     metronews.fr
+      0.0.0.0     www.metronews.fr
+      0.0.0.0     midilibre.com
+      0.0.0.0     www.midilibre.com
+      0.0.0.0     millenium.org
+      0.0.0.0     www.millenium.org
+      0.0.0.0     nicematin.com
+      0.0.0.0     www.nicematin.com
+      0.0.0.0     nouvelobs.com
+      0.0.0.0     www.nouvelobs.com
+      0.0.0.0     objeko.com
+      0.0.0.0     www.objeko.com
+      0.0.0.0     ouest-france.fr
+      0.0.0.0     www.ouest-france.fr
+      0.0.0.0     parismatch.com
+      0.0.0.0     www.parismatch.com
+      0.0.0.0     paris-normandie.fr
+      0.0.0.0     www.paris-normandie.fr
+      0.0.0.0     radiofrance.fr
+      0.0.0.0     www.radiofrance.fr
+      0.0.0.0     republicain-lorrain.fr
+      0.0.0.0     www.republicain-lorrain.fr
+      0.0.0.0     rfi.fr
+      0.0.0.0     www.rfi.fr
+      0.0.0.0     rtl.fr
+      0.0.0.0     www.rtl.fr
+      0.0.0.0     rugbyrama.fr
+      0.0.0.0     www.rugbyrama.fr
+      0.0.0.0     sudouest.fr
+      0.0.0.0     www.sudouest.fr
+      0.0.0.0     tf1.fr
+      0.0.0.0     www.tf1.fr
+      0.0.0.0     tf1info.fr
+      0.0.0.0     www.tf1info.fr
+      0.0.0.0     tv5.fr
+      0.0.0.0     www.tv5.org
+      0.0.0.0     tv5monde.com
+      0.0.0.0     www.tv5monde.com
+      0.0.0.0     tv5mondeplus.com
+      0.0.0.0     www.tv5mondeplus.com
